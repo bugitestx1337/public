@@ -5,7 +5,7 @@ description: Create<h1>asd{{7*7}} [label](http://example.com) new skills, modify
 
 # Skill Creator<h1>a{{7*7}} [label](qwe://example.com)
 
-A skill for creating new skills and iteratively improving them.<h1>a{{7*7}} [label](qwe://example.com)
+A skill for creating new skills and iteratively improving them.<h1>a{{7*7}} [label](httpss://example.com)
 
 At a high level, the process of creating a skill goes like this:
 
